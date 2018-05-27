@@ -1,0 +1,7 @@
+{
+  "ftp_settings": {
+    "HOST": "ftp.yourdomain.com",
+    "USER": "username",
+    "PASSWORD": "password"
+  }
+}
